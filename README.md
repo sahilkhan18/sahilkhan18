@@ -1,13 +1,13 @@
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
 <h1 align="center">Hi there,👋 I'm <a href="https://shadab18.github.io">Mohd Sahil Ali Khan</a></h1>
 
-- <!-- 🔭  You can check my portfolio here [**Portfolio**](https://asgar72.github.io)
+ <!-- 🔭  You can check my portfolio here [**Portfolio**](https://asgar72.github.io)-->
 
 - 📚 I'm currently **Pursuing MCA from Bansal Institute of Science and Technology.**
 
-- 🌱 I’m currently trying to enhance and improve my skills in Web Development domain using JS.**
+- 🌱 I’m currently trying to enhance and improve my skills in **Web Development domain using JS**.
 
-- 🤔I’m a content creator and I have a YouTube channel named Muslim Ummah.**
+- 🤔I’m a content creator and I have a YouTube channel named **Muslim Ummah**.
 
 - ⚡ Fun fact **Sleeping with a problem can actually solve it.**
 
