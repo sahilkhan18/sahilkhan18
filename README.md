@@ -3,11 +3,11 @@
 
  <!-- 🔭  You can check my portfolio here [**Portfolio**](https://asgar72.github.io)-->
 
-- 📚 I'm currently **Pursuing MCA from Bansal Institute of Science and Technology.**
+- 📚 I'm currently **Pursued MCA from Bansal Institute of Science and Technology.**
 
-- 🌱 I’m currently trying to enhance and improve my skills in **Web Development domain using JS**.
+- 🌱 I’m currently trying to enhance and improve my skills in **Web Development domain using JS along with Data Analytics using Python**.
 
-- 🤔I’m a content creator and I have a YouTube channel named **Muslim Ummah**.
+- 🤔I’m a content creator and I have a YouTube channel named **Ehsaas E Imaan**.
 
 - ⚡ Fun fact **Sleeping with a problem can actually solve it.**
 
